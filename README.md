@@ -13,8 +13,16 @@
 
 <h3 align="left">Recent Projects:</h3>
 <h4>Star Rickpocalypse</h4>
-A browser-based space shooter inspired by 'Rick and Morty' and built with built with HTML, CSS, JavaScript, DOM manipulation, and OOP.
+
+Browser-based space shooter inspired by 'Rick and Morty' and built with built with HTML, CSS, JavaScript, DOM manipulation, and OOP.
 
 [Check repo](https://github.com/andrewnzrv/star-rickpocalypse/) | [Play game](https://andrewnzrv.github.io/star-rickpocalypse/)
 
-![Screenshot](https://github.com/andrewnzrv/star-rickpocalypse/raw/master/images/screen-recording.gif)
+![Star Rickpocalypse](https://github.com/andrewnzrv/star-rickpocalypse/raw/master/images/screen-recording.gif)
+
+<h4>React TaskHub</h4>
+Frontend of a to-do list app built with React + Vite
+
+[Check repo](https://github.com/andrewnzrv/react-taskhub) | [Check app](https://react-taskhub.netlify.app/)
+
+![React TaskHub](https://github.com/andrewnzrv/andrewnzrv/assets/73107890/fafd294e-8cf8-46ce-a76b-29b6641f71e5)
