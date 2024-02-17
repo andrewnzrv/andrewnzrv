@@ -14,5 +14,5 @@
 <h3 align="left">Recent Projects:</h3>
 <h4>Star Rickpocalypse</h4>
 A browser-based space shooter inspired by 'Rick and Morty' and built with built with HTML, CSS, JavaScript, DOM manipulation, and OOP.
-[Check repo](https://github.com/andrewnzrv/star-rickpocalypse/)
-[Play game](https://andrewnzrv.github.io/star-rickpocalypse/)
+
+[Check repo](https://github.com/andrewnzrv/star-rickpocalypse/) | [Play game](https://andrewnzrv.github.io/star-rickpocalypse/)
