@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrei</h1>
-<h3 align="center">A product enthusiast passionate about creating products that customers love</h3>
+<h3 align="center">A product enthusiast passionate about creating software that customers love</h3>
 
 - 💬 Ask me about **react, product management & marketing, user research**
 
