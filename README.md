@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Andrei</h1>
+<h1 align="center">Hi, I'm Andrei 👋</h1>
 <h3 align="center">A product enthusiast passionate about creating software that customers love</h3>
 
-<p align="center">💬 Ask me about <b>react, product management & marketing, user research</b></p>
+<p align="center">💬 Ask me about <b>web dev, product management & marketing, user research</b></p>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
