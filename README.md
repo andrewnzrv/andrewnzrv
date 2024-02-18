@@ -34,3 +34,9 @@ Single-page eCommerce application built with React, Vite and Mantine.
 
 ![React eCommerce App](https://github.com/andrewnzrv/andrewnzrv/assets/73107890/355304f0-3980-482a-a600-556e29a12035)
 
+<h3>InfiniteCanvas: MERN Stack Open Art Gallery</h3>
+Social media for artists built with MongoDB, Express, React and Node.
+
+[Frontend repo](https://github.com/andrewnzrv/ironmedia-frontend) | [Backend repo](https://github.com/andrewnzrv/ironmedia-backend) | [App](https://react-fake-ecommerce-app.netlify.app/)
+
+![InfiniteCanva](https://github.com/andrewnzrv/andrewnzrv/assets/73107890/065062d6-d129-4679-964a-dc262d030c48)
